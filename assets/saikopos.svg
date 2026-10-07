@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="265" viewBox="0 0 1200 265" role="img" aria-label="SaikoPOS: sistema SaaS de gestión y punto de venta en desarrollo">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".04"/></linearGradient>
+  </defs>
+  <rect x="2" y="2" width="1196" height="261" rx="20" fill="#0D172B" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="3" y="3" width="1194" height="259" rx="19" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="45" y="47" font-size="15" font-weight="700" letter-spacing="3" fill="#22D3EE">PRODUCTO EN CONSTRUCCIÓN / 001</text>
+    <text x="43" y="112" font-size="54" font-weight="800" fill="#F8FAFC">Saiko<tspan fill="#22D3EE">POS</tspan></text>
+    <text x="45" y="150" font-size="19" fill="#CBD5E1">Gestión y punto de venta para negocios argentinos.</text>
+    <text x="45" y="180" font-size="17" fill="#94A3B8">Una plataforma SaaS multiempresa, segura y adaptable.</text>
+    <rect x="45" y="206" width="166" height="32" rx="16" fill="#13243D" stroke="#22D3EE" stroke-opacity=".7"/>
+    <circle cx="62" cy="222" r="5" fill="#22D3EE"/>
+    <text x="77" y="228" font-size="13" font-weight="700" fill="#E2E8F0">EN DESARROLLO</text>
+  </g>
+  <g transform="translate(720 42)" font-family="Consolas, 'Courier New', monospace">
+    <rect width="420" height="181" rx="15" fill="#0A1223" stroke="#334155"/>
+    <text x="23" y="41" font-size="15" fill="#A78BFA">// módulos principales</text>
+    <text x="23" y="76" font-size="17" fill="#E2E8F0"><tspan fill="#22D3EE">✓</tspan> punto de venta y cajas</text>
+    <text x="23" y="110" font-size="17" fill="#E2E8F0"><tspan fill="#22D3EE">✓</tspan> productos e inventario</text>
+    <text x="23" y="144" font-size="17" fill="#E2E8F0"><tspan fill="#22D3EE">✓</tspan> roles, permisos y reportes</text>
+  </g>
+</svg>
