@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Desarrollo+software+para+problemas+reales;Construyendo+SaikoPOS;Software+%C2%B7+Web+%C2%B7+IT;Aprendiendo%2C+construyendo+y+mejorando" alt="Presentación animada" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Desarrollo+software+para+problemas+reales;Construyendo+SaikoTech.DEV;Software+%C2%B7+Web+%C2%B7+IT;Aprendiendo%2C+construyendo+y+mejorando" alt="Presentación animada" />
 
 <br />
 
@@ -14,7 +14,7 @@
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=LeandroTomasCastro&label=VISITAS&color=7C3AED&style=flat-square&labelColor=151022" alt="Visitas al perfil" />
-<img src="https://img.shields.io/badge/FOCUS-SAIKOPOS-A855F7?style=flat-square&labelColor=151022" alt="Enfoque actual: SaikoPOS" />
+<img src="https://img.shields.io/badge/FOCUS-SAIKOTECH.DEV-A855F7?style=flat-square&labelColor=151022" alt="Enfoque actual: SaikoTech.DEV" />
 
 </div>
 
@@ -22,34 +22,26 @@
 
 Soy **Leandro Tomás Castro**, **Full Stack Developer / Software Developer** de Argentina. Desarrollo aplicaciones web, sistemas de gestión y soluciones digitales orientadas a necesidades concretas.
 
-Mi objetivo es convertir ideas y procesos complejos en productos claros, mantenibles y preparados para evolucionar. Actualmente estoy construyendo **SaikoTech.DEV** y su producto principal, **SaikoPOS**.
+Mi objetivo es convertir ideas y procesos complejos en productos claros, mantenibles y preparados para evolucionar. Actualmente estoy construyendo **SaikoTech.DEV**, un ecosistema de servicios, herramientas y productos digitales orientados a negocios y emprendedores.
 
 ```text
-ahora     → desarrollando SaikoPOS
+ahora     → creando proyectos web y software
 marca     → construyendo SaikoTech.DEV
 enfoque   → software útil para negocios
 creciendo → arquitectura SaaS · seguridad · sistemas multiempresa
 ```
 
-<img src="assets/project.svg" alt="02 — Proyecto destacado" width="100%" />
+<img src="assets/project.svg" alt="02 — Actualmente construyendo" width="100%" />
 
-<div align="center">
-<img src="assets/saikopos.svg" alt="SaikoPOS — Sistema SaaS de gestión y punto de venta en desarrollo" width="100%" />
-</div>
+Actualmente trabajo en proyectos que fortalecen mi experiencia, mi portfolio y el ecosistema de **SaikoTech.DEV**.
 
-**SaikoPOS** es un sistema de gestión y punto de venta para negocios. Está diseñado con una arquitectura multiempresa y multisucursal, con el objetivo de evolucionar hacia un producto SaaS comercial.
-
-### Alcance del producto
-
-| Núcleo operativo | Gestión y control |
+| Web y producto | Software y sistemas |
 |---|---|
-| Punto de venta, ventas y tickets | Usuarios, roles y permisos |
-| Productos, categorías e inventario | Auditoría, reportes y estadísticas |
-| Movimientos de stock y cajas | Clientes, devoluciones y rentabilidad |
+| 🌐 Proyectos web y landing pages | 🧩 Sistemas de gestión |
+| 📱 Aplicaciones web progresivas (PWA) | ☁️ Herramientas y productos SaaS |
+| 🧱 Plantillas y componentes reutilizables | 💼 Proyectos para mi portfolio |
 
-> 🚧 **Actualmente en desarrollo.** Esta lista describe el alcance previsto del producto; algunas funciones todavía pueden estar en implementación.
-
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Vercel`
+> Los proyectos se encuentran en distintas etapas de desarrollo y se publicarán cuando estén listos para ser presentados.
 
 <img src="assets/brand.svg" alt="03 — SaikoTech.DEV" width="100%" />
 

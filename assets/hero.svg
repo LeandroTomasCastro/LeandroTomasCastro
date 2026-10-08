@@ -20,7 +20,7 @@
       <text x="59" y="282" font-size="20" fill="#F8FAFC">Full Stack Developer / Software Developer</text>
       <rect x="58" y="305" width="248" height="34" rx="17" fill="#151022" stroke="#A855F7" stroke-opacity=".7"/>
       <circle class="pulse" cx="76" cy="322" r="5" fill="#C084FC"/>
-      <text x="91" y="328" font-size="13" font-weight="700" letter-spacing="1" fill="#F8FAFC">BUILDING SAIKOPOS</text>
+      <text x="91" y="328" font-size="13" font-weight="700" letter-spacing="1" fill="#F8FAFC">BUILDING SAIKOTECH.DEV</text>
     </g>
     <g transform="translate(708 64)" font-family="Consolas, 'Courier New', monospace">
       <rect width="442" height="236" rx="15" fill="#151022" stroke="#A855F7" stroke-opacity=".55"/>
@@ -31,7 +31,7 @@
       <text x="25" y="106" font-size="16" fill="#F8FAFC">Full Stack Developer</text>
       <text x="25" y="145" font-size="16" fill="#C084FC">$ mission</text>
       <text x="25" y="173" font-size="16" fill="#F8FAFC">crear software que resuelve</text>
-      <text x="25" y="211" font-size="16" fill="#A855F7">$ build saikopos<tspan class="cursor" fill="#C084FC"> ▌</tspan></text>
+      <text x="25" y="211" font-size="16" fill="#A855F7">$ build saikotech.dev<tspan class="cursor" fill="#C084FC"> ▌</tspan></text>
     </g>
   </g>
 </svg>
