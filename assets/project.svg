@@ -1,8 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="03 — PROYECTO DESTACADO">
-  <defs><linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%"><stop stop-color="#22D3EE" stop-opacity=".85"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".05"/></linearGradient></defs>
-  <rect width="1200" height="72" rx="12" fill="#080D1C"/>
-  <rect x="0" y="10" width="64" height="52" rx="13" fill="#111D34" stroke="#22D3EE" stroke-opacity=".6"/>
-  <text x="32" y="46" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="24" font-weight="700" fill="#22D3EE">03</text>
-  <text x="83" y="48" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800" fill="#E2E8F0">PROYECTO DESTACADO</text>
-  <rect x="510" y="36" width="688" height="2" fill="url(#line)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-label="02 — Proyecto destacado">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop stop-color="#A855F7"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></linearGradient></defs><rect width="1200" height="76" rx="12" fill="#0B0714"/><rect x="0" y="10" width="64" height="54" rx="13" fill="#151022" stroke="#7C3AED"/><text x="32" y="47" text-anchor="middle" font-family="Consolas,monospace" font-size="23" font-weight="700" fill="#C084FC">02</text><text x="84" y="49" font-family="Arial,sans-serif" font-size="31" font-weight="800" fill="#F8FAFC">PROYECTO DESTACADO</text><rect x="505" y="37" width="695" height="2" fill="url(#l)"/>
 </svg>
+

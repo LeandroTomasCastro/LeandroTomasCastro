@@ -1,24 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="265" viewBox="0 0 1200 265" role="img" aria-label="SaikoPOS: sistema SaaS de gestión y punto de venta en desarrollo">
-  <defs>
-    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE" stop-opacity=".16"/><stop offset="1" stop-color="#A78BFA" stop-opacity=".04"/></linearGradient>
-  </defs>
-  <rect x="2" y="2" width="1196" height="261" rx="20" fill="#0D172B" stroke="url(#edge)" stroke-width="2"/>
-  <rect x="3" y="3" width="1194" height="259" rx="19" fill="url(#glow)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="SaikoPOS — Sistema SaaS de gestión y punto de venta en desarrollo">
+  <defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#C084FC"/></linearGradient><radialGradient id="glow"><stop stop-color="#A855F7" stop-opacity=".16"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient></defs>
+  <rect x="2" y="2" width="1196" height="266" rx="20" fill="#0B0714" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="870" cy="105" r="330" fill="url(#glow)"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="45" y="47" font-size="15" font-weight="700" letter-spacing="3" fill="#22D3EE">PRODUCTO EN CONSTRUCCIÓN / 001</text>
-    <text x="43" y="112" font-size="54" font-weight="800" fill="#F8FAFC">Saiko<tspan fill="#22D3EE">POS</tspan></text>
-    <text x="45" y="150" font-size="19" fill="#CBD5E1">Gestión y punto de venta para negocios argentinos.</text>
-    <text x="45" y="180" font-size="17" fill="#94A3B8">Una plataforma SaaS multiempresa, segura y adaptable.</text>
-    <rect x="45" y="206" width="166" height="32" rx="16" fill="#13243D" stroke="#22D3EE" stroke-opacity=".7"/>
-    <circle cx="62" cy="222" r="5" fill="#22D3EE"/>
-    <text x="77" y="228" font-size="13" font-weight="700" fill="#E2E8F0">EN DESARROLLO</text>
+    <text x="45" y="47" font-size="14" font-weight="700" letter-spacing="3" fill="#C084FC">PRODUCTO EN DESARROLLO / 001</text>
+    <text x="43" y="112" font-size="54" font-weight="800" fill="#F8FAFC">Saiko<tspan fill="#A855F7">POS</tspan></text>
+    <text x="45" y="151" font-size="19" fill="#F8FAFC">Gestión y punto de venta para negocios.</text>
+    <text x="45" y="181" font-size="17" fill="#A1A1AA">Arquitectura multiempresa y multisucursal con visión SaaS.</text>
+    <rect x="45" y="211" width="166" height="32" rx="16" fill="#151022" stroke="#A855F7" stroke-opacity=".75"/>
+    <circle cx="62" cy="227" r="5" fill="#C084FC"/>
+    <text x="77" y="233" font-size="13" font-weight="700" fill="#F8FAFC">EN DESARROLLO</text>
   </g>
   <g transform="translate(720 42)" font-family="Consolas, 'Courier New', monospace">
-    <rect width="420" height="181" rx="15" fill="#0A1223" stroke="#334155"/>
-    <text x="23" y="41" font-size="15" fill="#A78BFA">// módulos principales</text>
-    <text x="23" y="76" font-size="17" fill="#E2E8F0"><tspan fill="#22D3EE">✓</tspan> punto de venta y cajas</text>
-    <text x="23" y="110" font-size="17" fill="#E2E8F0"><tspan fill="#22D3EE">✓</tspan> productos e inventario</text>
-    <text x="23" y="144" font-size="17" fill="#E2E8F0"><tspan fill="#22D3EE">✓</tspan> roles, permisos y reportes</text>
+    <rect width="420" height="186" rx="15" fill="#151022" stroke="#3B2751"/>
+    <text x="23" y="40" font-size="15" fill="#C084FC">// visión del producto</text>
+    <text x="23" y="77" font-size="17" fill="#F8FAFC"><tspan fill="#A855F7">›</tspan> ventas · cajas · tickets</text>
+    <text x="23" y="112" font-size="17" fill="#F8FAFC"><tspan fill="#A855F7">›</tspan> inventario · stock · clientes</text>
+    <text x="23" y="147" font-size="17" fill="#F8FAFC"><tspan fill="#A855F7">›</tspan> permisos · reportes · auditoría</text>
   </g>
 </svg>
+
